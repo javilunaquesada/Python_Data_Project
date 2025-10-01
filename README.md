@@ -54,3 +54,14 @@ plt.show()
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
 - Excel experienced a significant increase in demand starting around September.
 - Both Python and Tableau show relatively stable demand throughout the year. Power BI, while less demanded compared to the others, shows a slight upward trend towards the year's end.
+
+## 3 How well do job and skills pay for Data Analysts?
+
+#### Results
+
+![Salary distributions of Data Jobs in the US](Project\Images\salary_distrib.png)
+
+#### Insights
+- There's a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary potential, with up to $600K, indicating the high value placed on advanced data skills and experience in the industry.
+- Senior Data Engineer and Senior Data Scientist roles show a considerable number of outliers on the higher end of the salary spectrum, suggesting that exceptional skills or circumstances can lead to high pay in these roles. In contrast, Data Analyst roles demonstrate more consistency in salary, with fewer outliers.
+- The median salaries increase with the seniority and specialization of the roles. Senior roles (Senior Data Scientist, Senior Data Engineer) not only have higher median salaries but also larger differences in typical salaries, reflecting greater variance in compensation as responsibilities increase.
